@@ -12,6 +12,8 @@ Run the following command to install the necessary node modules.
     npm install
 ```
 
+## Running the project 
+
 Run the following command to run the app
 
 ```sh
