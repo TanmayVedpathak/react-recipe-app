@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 ## Before running the project 
 
 Generate your own api key from the [Spoonacular api website](https://spoonacular.com/food-api).
