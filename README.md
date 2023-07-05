@@ -2,7 +2,7 @@
 
 Generate your own api key from the [Spoonacular api website](https://spoonacular.com/food-api).
 
-After the key is generated copy the key, remane the .env.sample file to .env and insert the key in the .env file
+After the key is generated copy the key, generate .env file and insert the key in the .env file
 
 Run the following command to install the necessary node modules.
 
